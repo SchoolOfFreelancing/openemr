@@ -45,7 +45,7 @@
     "storybook-readme": "^3.3.0"
   },
   "dependencies": {
-    "angular": "1.5.8",
+    "angular": "1.8.0",
     "angular-sanitize": "1.5.8",
     "angular-summernote": "0.8.1",
     "anythingslider": "https://github.com/CSS-Tricks/AnythingSlider/archive/v1.9.4.tar.gz",
